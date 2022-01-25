@@ -1,0 +1,9 @@
+{
+    "policyId": "6873bddc4ae10fdc75ce8104c4b032cb02d8ef0022531e8f067fee6c",
+    "name": "BILLON",
+    "symbol": "$BILLON",
+    "website": "https://billontoken.io",
+    "description": "A decentralized meme token. A shining knight in the wilderness of the metaverse; slashing through the nonsense.",
+    "totalSupply": 3000000000,
+    "amounts": [1000, 5000, 10000, 50000, 100000, 250000,500000,1000000]
+}
